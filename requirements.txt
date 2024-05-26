@@ -1,0 +1,6 @@
+readyapi
+uvicorn
+pydantic
+pytest
+httpx
+pyyaml
